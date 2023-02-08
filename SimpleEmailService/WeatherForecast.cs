@@ -1,4 +1,4 @@
-namespace EmailService
+namespace SimpleEmailService
 {
     public class WeatherForecast
     {
